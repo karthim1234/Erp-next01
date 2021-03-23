@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<body>
+Company Logo<br>
+<p align="right"> QUOTATION </p><br>
+<img src="Source" align="right">
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<hr>
+<pre>
+COMPANY XYZ INDIA PVT. LTD.
+401, Tripura Udyog, Off. Balewadi, Patel Road, Pune - 411 043, India 
+Email ID - sales@tripuraudyog.com
+Website - www.companyxyz.com
+</pre>
+<br>
+<hr>
+<pre>
+CIN - U29843PN2015PTSDF49
+GSTIN / UIN - 27AADCB8710T1ZU
+</pre>
+<hr>
+<pre>
+Kartik Mangla									Quote No.	QTN-17259
+</pre>	
+<hr>
+<pre>
+	    House number -156     						Date	        19-Jan-2020
+            Sector 37
+            Faridabad
+            Haryana  
+            India		
+            121003
+</pre>
+<hr>
+<pre>
+            GSTIN : 27ABCT2820F1ZT
+Contact	    Custiomer Name
+Mobile No   +91 9898989898
+</pre>
+<table style="width:100%" border="1">
+  <tr>
+    <th>Sr</th>
+    <th>Product Code / Service Ticket No. </th>
+    <th>Product Image</th>
+    <th>HSN/SAC</th>
+    <th>IGST Rate</th>
+    <th>Description</th>
+    <th>Qty.</th>
+    <th>Amount</th>	
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>  
+    
+<td></td>  
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+  <tr>
+    <td>1</td>
+    <td>14A545454<br>Service Ticket No.: 124 </td>
+    <td><img src="Source"></td>
+    <td>18%</td>
+    <td>42345435</td>
+    <td>Item Description</td>
+    <td>Nos 1</td>
+    <td>INR 20,200.00</td>
+  </tr>
+ <tr>
+    <td>2</td>
+    <td>4A545453<br>Service Ticket No.: 189  </td>
+    <td><img src="Source"></td>
+    <td>28%</td>
+    <td>353543545</td>
+    <td>Item Description</td>
+    <td>Nos 1</td>
+    <td>INR 800.00</td>
+  </tr>
+</table>
+
+<p align="right">
+Subtotal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INR 21000<br>
+Discount&nbsp;&nbsp;&nbsp;15%&nbsp;&nbsp;INR 3150<br>
+IGST&nbsp;&nbsp;&nbsp;       18%&nbsp;&nbsp;   INR 24780<br>
+Grand Total&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      INR 21630<br>
+In Words INR TWENTY ONE THOUSAND SIX HUNDRED THIRTY<br>
+</p>
+<strong>Terms & Conditions</strong>
+
+<ol>
+<li><strong>Price:</strong>	Ex Work
+<li><strong>Packing:</strong>	5% of packing charges will be extra.
+(Applicable GST on packing charges will be charged on principle supply)
+<li><strong>Freight</strong>	On ‘Freight to pay’ basis.
+OR
+(If Freight paid & to be reimbursed in the invoice then, applicable GST on freight charges will be charged on principle supply .)
+<li><strong>GST</strong>	1] For Bill To Location within Maharashtra CGST & SGST @ 18% will be applicable.
+For Media Degasser & Peristaltic Pump CGST & SGST @ 28% will be applicable.<br>
+2]For Bill To Location out of Maharashtra IGST @ 18% will be applicable.
+For Media Degasser & Peristaltic Pump IGST @ 28% will be applicable.<br>
+3]We request you to provide your GSTN details in an event ofthe  purchase order.
+</ol>
+<strong>NOTE:</strong><br>
+The title of the goods will remain with COMPANY Pvt. Ltd. till the receipt of 100% payment.<br>
+<strong>
+For Company xyz PVT ltd.<br>
+Prepared By<br>
+<br>
+Sales Head&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sales Manager
+</strong>
+<br>Electronically Authorised By&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	Electronically Authorised By
+</body>
+
+
+</html> 
